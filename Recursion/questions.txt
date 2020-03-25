@@ -46,6 +46,29 @@ using recursion. Return the answer.
 
 11. Check if a given String S is palindrome or not (using recursion). Return true or false.
 
+12. Given an array of length N and an integer x, you need to find and return the last index of integer x present in the array. Return -1 if it is not present in the array.
+Last index means - if x is present multiple times in the array, return the index at which x comes last in the array.
+Do this recursively. Indexing in the array starts from 0.
+
+13. Given a string, compute recursively a new string where all appearances of "pi" have been replaced by "3.14".
+
+14. Given a string, compute recursively a new string where all 'x' chars have been removed.
+
+15. Write a recursive function to convert a given string into the number it represents. That is input will be a numeric string that contains only numbers, you need to convert the string into corresponding integer and return the answer.
+
+16. Given a string, compute recursively a new string where identical chars that are adjacent in the original string are separated from each other by a "*".
+
+17. Given an input string S and two characters c1 and c2, you need to replace every occurrence of character c1 with character c2 in the given string.
+Do this recursively.
+
+18. Given a string S, remove consecutive duplicates from it recursively.
+Constraints :
+1 <= Length of String S <= 10^3
+
+19. A child is running up a staircase with N steps, and can hop either 1 step, 2 steps or 3 steps at a time. Implement a method to count how many possible ways the child can run up to the stairs. You need to return number of possible ways W.
+
+(1 <= N <= 30)
+
 
 
 

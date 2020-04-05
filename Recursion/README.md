@@ -70,7 +70,14 @@ Constraints :
 (1 <= N <= 30)
 
 
+20. Assume that the value of a = 1, b = 2, c = 3, ... , z = 26. You are given a numeric string S. Write a program to print the list of all possible codes that can be generated from the given string.
 
+Constraints :
+1 <= Length of String S <= 10
+
+21. Given an integer array (of length n), find and print all the subsets of input array.
+Constraints :
+1 <= n <= 15
 
 
 

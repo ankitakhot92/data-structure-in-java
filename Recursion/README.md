@@ -79,6 +79,14 @@ Constraints :
 Constraints :
 1 <= n <= 15
 
+22. Given a string S, find and return all the possible permutations of the input string.
+
+23. Suppose you have a string made up of only 'a' and 'b'. Write a recursive function that checks if the string was generated using the following rules:
+a. The string begins with an 'a'
+b. Each 'a' is followed by nothing or an 'a' or "bb"
+c. Each "bb" is followed by nothing or an 'a'
+If all the rules are followed by the given string, return true otherwise return false.
+
 
 
 

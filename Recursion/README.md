@@ -87,9 +87,10 @@ b. Each 'a' is followed by nothing or an 'a' or "bb"
 c. Each "bb" is followed by nothing or an 'a'
 If all the rules are followed by the given string, return true otherwise return false.
 
+24. Given an array of length N and an integer x, you need to find all the indexes where x is present in the input array. Save all the indexes in an array (in increasing order).
+Do this recursively. Indexing in the array starts from 0.
 
-
-
-
+Constraints :
+1 <= N <= 10^3
 
 

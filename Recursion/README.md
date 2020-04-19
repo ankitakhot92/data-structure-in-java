@@ -93,4 +93,10 @@ Do this recursively. Indexing in the array starts from 0.
 Constraints :
 1 <= N <= 10^3
 
+25. Given an integer n, using phone keypad find out all the possible strings that can be made using digits of input n.
+Return empty string for numbers 0 and 1.
+
+Constraints :
+1 <= n <= 10^6
+
 

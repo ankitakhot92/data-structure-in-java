@@ -20,3 +20,16 @@ Assume given n will be smaller than length of LL.
 You don't need to print the elements, just remove duplicates and return the head of updated LL.
 
 7. (Print reverse LinkedList) Print a given linked list in reverse order. You need to print the tail first and head last. You can’t change any pointer in the linked list, just print it in reverse order.
+
+8. (Midpoint of Linked list) Given a linked list, find and return the midpoint.
+If the length of linked list is even, return the first mid point.
+
+9. (Merge two sorted LL) Given two linked lists sorted in increasing order. Merge them in such a way that the result list is also sorted (in increasing order).
+Try solving with O(1) auxiliary space (in-place). You just need to return the head of new linked list, don't print the elements.
+
+10. (Merge Sort) Sort a given linked list using Merge Sort.
+You don't need to print the elements, just sort the elements and return the head of updated LL.
+
+Constraints :
+1 <= Length of LL <= 1000
+

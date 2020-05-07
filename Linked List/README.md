@@ -33,3 +33,10 @@ You don't need to print the elements, just sort the elements and return the head
 Constraints :
 1 <= Length of LL <= 1000
 
+11. Check if a given linked list is palindrome or not. Return true or false.
+Indexing starts from 0.
+Input format : Linked list elements (separated by space and terminated by -1)
+
+12. (Reverse LL (Recursive)) Given a linked list, reverse it using recursion.
+You don't need to print the elements, just reverse the LL duplicates and return the head of updated LL.
+Input format : Linked list elements (separated by space and terminated by -1)`

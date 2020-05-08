@@ -53,3 +53,7 @@ Return -1 if n is not present in the LL.
 16. (Even after Odd LinkedList) Arrange elements in a given Linked List such that, all even numbers are placed after odd numbers. Respective order of elements should remain same.
 
 17. (Delete every N nodes) Given a linked list and two integers M and N. Traverse the linked list such that you retain M nodes then delete next N nodes, continue the same until end of the linked list. That is, in the given linked list you need to delete N nodes after every M nodes.
+
+18. (Swap two Node of LL) Given a linked list, i & j, swap the nodes that are present at i & j position in the LL. You need to swap the entire nodes, not just the data.
+Indexing starts from 0. You don't need to print the elements, just swap and return the head of updated LL.
+Assume i & j given will be within limits. And i can be greater than j also.

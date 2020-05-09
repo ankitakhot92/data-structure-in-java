@@ -57,3 +57,10 @@ Return -1 if n is not present in the LL.
 18. (Swap two Node of LL) Given a linked list, i & j, swap the nodes that are present at i & j position in the LL. You need to swap the entire nodes, not just the data.
 Indexing starts from 0. You don't need to print the elements, just swap and return the head of updated LL.
 Assume i & j given will be within limits. And i can be greater than j also.
+
+19. (kReverse) Implement kReverse( int k ) in a linked list i.e. you need to reverse first K elements then reverse next k elements and join the linked list and so on.
+Indexing starts from 0. If less than k elements left in the last, you need to reverse them as well. If k is greater than length of LL, reverse the complete LL.
+You don't need to print the elements, just return the head of updated LL.
+
+20. (Bubble Sort (Iterative) LinkedList) Sort a given linked list using Bubble Sort (iteratively). While sorting, you need to swap the entire nodes, not just the data.
+You don't need to print the elements, just sort the elements and return the head of updated LL.

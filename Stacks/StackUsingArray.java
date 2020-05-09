@@ -42,6 +42,25 @@ public class StackUsingArray {
 		data[top] = elem;
 	}
 	
+	//to increment the stack size dynamically
+	//instead of exception just create a new array of double size and copy the elements
+//	public void push(int elem) {
+//		if(size() == data.length) {
+//			doubleCapacity();
+//			}
+//		
+//		top++;
+//		data[top] = elem;
+//	}
+	
+//	private void doubleCapacity() {
+//		int temp[] = data;
+//		data = new int[2*temp.length];
+//		for(int i=0; i<=top; i++) {
+//			data[i] = temp[i];
+//		}
+//	}
+	
 	public int pop() throws StackEmptyException{
 		//handle if stack is empty
 		if(size() == 0) {

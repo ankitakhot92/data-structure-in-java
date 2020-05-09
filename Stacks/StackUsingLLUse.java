@@ -1,11 +1,10 @@
 package Stack;
 
-public class StackUse {
+public class StackUsingLLUse {
 	
-	public static void main(String[] args) throws StackFullException{
+	public static void main(String[] args) throws Exception{
 		
-//		StackUsingArray stack = new StackUsingArray(3);
-		StackUsingArray stack = new StackUsingArray();
+		StackUsingLL<Integer> stack = new StackUsingLL<Integer>();
 		for(int i=1; i<=5; i++) {
 			stack.push(i);
 		}
@@ -17,6 +16,8 @@ public class StackUse {
 				//Never reach here
 			}
 		}
+		
+		
 	}
 
 }

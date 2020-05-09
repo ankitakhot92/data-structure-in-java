@@ -1,0 +1,1 @@
+Q1. Implement Stack Using LL, with following funtions - size(), isEmpty(), top(), push(), pop() mainting time complexity O(1).

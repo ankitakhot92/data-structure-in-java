@@ -19,3 +19,5 @@ Q-9 (Structurally identical) Given two Generic trees, return true if they are st
 Q-10 (Next larger element) Given a generic tree and an integer n. Find and return the node with next larger element in the Tree i.e. find a node with value just greater than n. Return NULL if no node is present with value greater than n.
 
 Q-11 (Count leaf Nodes) Given a generic tree, count and return the number of leaf nodes present in the given tree.
+
+Q-12 (Replace node with depth) In a given Generic Tree, replace each node with its depth value. You need to just update the data of each node, no need to return or print anything.

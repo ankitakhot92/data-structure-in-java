@@ -21,3 +21,5 @@ Q-10 (Next larger element) Given a generic tree and an integer n. Find and retur
 Q-11 (Count leaf Nodes) Given a generic tree, count and return the number of leaf nodes present in the given tree.
 
 Q-12 (Replace node with depth) In a given Generic Tree, replace each node with its depth value. You need to just update the data of each node, no need to return or print anything.
+
+Q-13 (Second Largest Element In Tree) Given a generic tree, find and return the node with second largest value in given tree. Return NULL if no node with required value is present.
